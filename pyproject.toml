@@ -1,0 +1,16 @@
+[project]
+name = "metabolic-protocols"
+version = "0.1.0"
+description = "Structured metabolic data and zero-carb recipes as code."
+authors = [
+    {name = "Marty McEnroe",email = "martymcenroe@users.noreply.github.com"}
+]
+readme = "README.md"
+requires-python = "^3.11"
+dependencies = [
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"

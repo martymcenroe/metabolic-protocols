@@ -47,3 +47,5 @@ local/
 # LLM Session Logs (Private)
 # -----------------------------------------------------------------------------
 session-log.md
+# Unleashed session transcripts (auto-generated, untracked)
+data/unleashed/
